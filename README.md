@@ -31,7 +31,7 @@ Feel free to explore each project folder to gain insights into my data analysis 
 
 ### Project 4: Environmental Impact Assessment
 - Description: Assessment of environmental impact using relevant datasets. Exploration of factors contributing to environmental changes.
-- Tools: Python (Pandas, Matplotlib, Seaborn, Plotly)
+- Tools: Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
 - Dataset: [Link to Environmental Dataset](https://www.kaggle.com/datasets/adityakadiwal/water-potability/data)
 
 ### 
