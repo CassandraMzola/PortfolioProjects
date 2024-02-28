@@ -27,7 +27,7 @@ Feel free to explore each project folder to gain insights into my data analysis 
 ### Project 2: Health Data Visualization
 - Description: Visualization of health-related data to uncover trends and patterns. Analysis includes demographic insights and key health indicators.
 - Tools: Python (Pandas, Matplotlib, Seaborn, Plotly)
-- Dataset: [Link to Health Dataset](link/to/health_dataset)
+- Dataset: [Link to Health Dataset](https://www.kaggle.com/datasets/prasad22/healthcare-dataset?rvi=1)
 
 ### Project 3: Environmental Impact Assessment
 - Description: Assessment of environmental impact using relevant datasets. Exploration of factors contributing to environmental changes.
