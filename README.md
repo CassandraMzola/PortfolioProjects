@@ -24,12 +24,12 @@ Feel free to explore each project folder to gain insights into my data analysis 
 - Tools: Python (Pandas, Matplotlib, Seaborn, Plotly)
 - Dataset: [Link to Financial Dataset](https://www.kaggle.com/datasets/jkraak/bitcoin-price-dataset)
 
-### Project 2: Health Data Visualization
-- Description: Visualization of health-related data to uncover trends and patterns. Analysis includes demographic insights and key health indicators.
-- Tools: Python (Pandas, Matplotlib, Seaborn, Plotly)
+### Project 3: Health Data Analysis
+- Description: Explore a healthcare dataset to understand patient demographics, health indicators, and correlations.
+- Tools: SQL, Python (Pandas, Scikit-learn)
 - Dataset: [Link to Health Dataset](https://www.kaggle.com/datasets/prasad22/healthcare-dataset?rvi=1)
 
-### Project 3: Environmental Impact Assessment
+### Project 4: Environmental Impact Assessment
 - Description: Assessment of environmental impact using relevant datasets. Exploration of factors contributing to environmental changes.
 - Tools: Python (Pandas, Matplotlib, Seaborn, Plotly)
 - Dataset: [Link to Environmental Dataset](link/to/environmental_dataset)
