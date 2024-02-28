@@ -5,7 +5,7 @@ Welcome to my portfolio projects repository! Here, you'll find a collection of d
 ## Table of Contents
 
 1. [Project 1: Movie Correlation Project](project4_movie_correlation_project/)
-2. [Project 2: Financial Data Analysis](project1_financial_data_analysis/)
+2. [Project 2: Financial Data Analysis](https://github.com/CassandraMzola/PortfolioProjects/blob/main/FinancialAnalysisProject.ipynb)
 3. [Project 3: Health Data Visualization](project2_health_data_visualization/)
 4. [Project 4: Environmental Impact Assessment](project3_environmental_impact_assessment/)
    
@@ -26,7 +26,7 @@ Feel free to explore each project folder to gain insights into my data analysis 
 
 ### Project 3: Health Data Analysis
 - Description: Explore a healthcare dataset to understand patient demographics, health indicators, and correlations.
-- Tools: SQL, Python (Pandas, Scikit-learn)
+- Tools: SQL, Python (Pandas)
 - Dataset: [Link to Health Dataset](https://www.kaggle.com/datasets/prasad22/healthcare-dataset?rvi=1)
 
 ### Project 4: Environmental Impact Assessment
