@@ -6,7 +6,7 @@ Welcome to my portfolio projects repository! Here, you'll find a collection of d
 
 1. [Project 1: Movie Correlation Project](project4_movie_correlation_project/)
 2. [Project 2: Financial Data Analysis](https://github.com/CassandraMzola/PortfolioProjects/blob/main/FinancialAnalysisProject.ipynb)
-3. [Project 3: Health Data Visualization](project2_health_data_visualization/)
+3. [Project 3: Health Data Visualization](https://github.com/CassandraMzola/PortfolioProjects/blob/main/HealthCareAnalysis.ipynb)
 4. [Project 4: Environmental Impact Assessment](project3_environmental_impact_assessment/)
    
 
