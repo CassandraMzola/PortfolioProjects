@@ -7,7 +7,7 @@ Welcome to my portfolio projects repository! Here, you'll find a collection of d
 1. [Project 1: Movie Correlation Project](https://github.com/CassandraMzola/PortfolioProjects/blob/main/MovieCorrelationProject.ipynb)
 2. [Project 2: Financial Data Analysis](https://github.com/CassandraMzola/PortfolioProjects/blob/main/FinancialAnalysisProject.ipynb)
 3. [Project 3: Health Data Visualization](https://github.com/CassandraMzola/PortfolioProjects/blob/main/HealthCareAnalysis.ipynb)
-4. [Project 4: Environmental Impact Assessment](project3_environmental_impact_assessment/)
+4. [Project 4: Water Quality Analysis ](project3_environmental_impact_assessment/)
    
 
 Feel free to explore each project folder to gain insights into my data analysis techniques and the stories behind the data.
@@ -32,7 +32,7 @@ Feel free to explore each project folder to gain insights into my data analysis 
 ### Project 4: Environmental Impact Assessment
 - Description: Assessment of environmental impact using relevant datasets. Exploration of factors contributing to environmental changes.
 - Tools: Python (Pandas, Matplotlib, Seaborn, Plotly)
-- Dataset: [Link to Environmental Dataset](link/to/environmental_dataset)
+- Dataset: [Link to Environmental Dataset](https://www.kaggle.com/datasets/adityakadiwal/water-potability/data)
 
 ### 
 
