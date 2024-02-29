@@ -29,8 +29,8 @@ Feel free to explore each project folder to gain insights into my data analysis 
 - Tools: SQL, Python (Pandas)
 - Dataset: [Link to Health Dataset](https://www.kaggle.com/datasets/prasad22/healthcare-dataset?rvi=1)
 
-### Project 4: Environmental Impact Assessment
-- Description: Assessment of environmental impact using relevant datasets. Exploration of factors contributing to environmental changes.
+### Project 4: Water Quality Analysis
+- Description: Analysed Water Quality data to predict potability using machine learning techniques.
 - Tools: Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
 - Dataset: [Link to Environmental Dataset](https://www.kaggle.com/datasets/adityakadiwal/water-potability/data)
 
