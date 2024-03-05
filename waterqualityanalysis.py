@@ -106,6 +106,17 @@ feature_importance = pd.DataFrame({'Feature': X.columns, 'Coefficient': model.co
 feature_importance = feature_importance.sort_values(by='Coefficient', ascending=False)
 print(feature_importance)
 
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Display feature importance as a horizontal bar chart
+plt.figure(figsize=(10, 6))
+sns.barplot(x='Coefficient', y='Feature', data=feature_importance, palette='viridis')
+plt.title('Feature Importance for Predicting Water Potability')
+plt.xlabel('Coefficient')
+plt.ylabel('Feature')
+plt.show()
+
 # Boxplots for feature distribution by Potability
 for feature in X.columns:
     plt.figure(figsize=(8, 5))
