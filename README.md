@@ -8,6 +8,7 @@ Welcome to my portfolio projects repository! Here, you'll find a collection of d
 2. [Project 2: Financial Data Analysis](https://github.com/CassandraMzola/PortfolioProjects/blob/main/FinancialAnalysisProject.ipynb)
 3. [Project 3: Health Data Visualization](https://github.com/CassandraMzola/PortfolioProjects/blob/main/HealthCareAnalysis.ipynb)
 4. [Project 4: Water Quality Analysis ](https://github.com/CassandraMzola/PortfolioProjects/blob/main/waterqualityanalysis.py)
+5. [Project 5: Energy Efficiency Analysis ] ()
    
 
 Feel free to explore each project folder to gain insights into my data analysis techniques and the stories behind the data.
@@ -34,7 +35,10 @@ Feel free to explore each project folder to gain insights into my data analysis 
 - Tools: Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
 - Dataset: [Link to Environmental Dataset](https://www.kaggle.com/datasets/adityakadiwal/water-potability/data)
 
-### 
+### Project 5: Energy Efficiency Analysis
+- Description: Analysed global energy efficiency trends over time. The project explores factors influencing energy efficiency.
+- Tools: Python(Pandas, Matplotlib,Seaborn)
+- Dataset: [Link to Environmental Dataset](https://github.com/owid/energy-data)
 
 ## How to Run the Projects Locally
 
