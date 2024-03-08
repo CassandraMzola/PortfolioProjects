@@ -10,7 +10,6 @@ Welcome to my portfolio projects repository! Here, you'll find a collection of d
 4. [Project 4: Water Quality Analysis ](https://github.com/CassandraMzola/PortfolioProjects/blob/main/waterqualityanalysis.py)
 5. [Project 5: Energy Efficiency Analysis ] (https://github.com/CassandraMzola/PortfolioProjects/blob/main/EnergyEfficiencyAnalysis.ipynb)
    
-
 Feel free to explore each project folder to gain insights into my data analysis techniques and the stories behind the data.
 
 ## Project Details
