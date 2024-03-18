@@ -9,7 +9,8 @@ Welcome to my portfolio projects repository! Here, you'll find a collection of d
 3. [Project 3: Health Data Visualization](https://github.com/CassandraMzola/PortfolioProjects/blob/main/HealthCareAnalysis.ipynb)
 4. [Project 4: Water Quality Analysis ](https://github.com/CassandraMzola/PortfolioProjects/blob/main/waterqualityanalysis.py)
 5. [Project 5: Energy Efficiency  Analysis ](https://github.com/CassandraMzola/PortfolioProjects/blob/main/EnergyEfficiencyAnalysis.ipynb)
-6. [Project 6: Sales Analytics Dashboard  ](https://github.com/CassandraMzola/PortfolioProjects/blob/main/EnergyEfficiencyAnalysis.ipynb)
+6. [Project 6: Sales Analytics Dashboard  ](https://github.com/CassandraMzola/PortfolioProjects/blob/main/Sales_Analytics_Dashboard.pdf)
+
    
 Feel free to explore each project folder to gain insights into my data analysis techniques and the stories behind the data.
 
@@ -47,8 +48,8 @@ Feel free to explore each project folder to gain insights into my data analysis 
 - Dataset: [Link to Sales Dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
   
 How to Run the Dashboard:
-1. View the dashboard: [Dashboard Preview](dashboard.pdf)
-2. Explore the dataset further: Clone or download this repository and open the sales_dashboard.lookml file in Looker.
+1. View the dashboard: [Dashboard Preview](https://github.com/CassandraMzola/PortfolioProjects/blob/main/Sales_Analytics_Dashboard.pdf)
+
 
 ## How to Run the Projects Locally
 
