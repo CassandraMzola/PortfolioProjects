@@ -16,32 +16,37 @@ Feel free to explore each project folder to gain insights into my data analysis 
 
 ## Project Details
 
-### Project 1: Movie Correlation Project
+### Project 1: Zodiac Sign Calculator
+- Description: Python script to determine a user's Zodiac sign based on their birth date and provide personality traits, element, symbol, historical background, and compaatibility insights
+- Tools: Python
+- How to use: Run the script locally to input your birth date and receive detailed information about your Zodiac sign.
+
+### Project 2: Movie Correlation Project
 - Description: Analysis of movie-related data to identify correlations between different features. Explore relationships between variables such as ratings, countries, and revenue.
 - Tools: Python (Pandas, Matplotlib, Seaborn,Numpy)
 - Dataset: [Link to Movie Dataset](https://www.kaggle.com/danielgrijalvas/movies)
 
-  ### Project 2: Financial Data Analysis
+  ### Project 3: Financial Data Analysis
 - Description: In-depth analysis of Bitcoin price trends, intraday patterns, and correlation with significant events in the cryptocurrency space.
 - Tools: Python (Pandas, Matplotlib, Seaborn, Plotly)
 - Dataset: [Link to Financial Dataset](https://www.kaggle.com/datasets/jkraak/bitcoin-price-dataset)
 
-### Project 3: Health Data Analysis
+### Project 4: Health Data Analysis
 - Description: Explore a healthcare dataset to understand patient demographics, health indicators, and correlations.
 - Tools: SQL, Python (Pandas)
 - Dataset: [Link to Health Dataset](https://www.kaggle.com/datasets/prasad22/healthcare-dataset?rvi=1)
 
-### Project 4: Water Quality Analysis
+### Project 5: Water Quality Analysis
 - Description: Analysed Water Quality data to predict potability using machine learning techniques.
 - Tools: Python (Pandas, Matplotlib, Seaborn, Scikit-learn)
 - Dataset: [Link to Water Quality  Dataset](https://www.kaggle.com/datasets/adityakadiwal/water-potability/data)
 
-### Project 5: Energy Efficiency Analysis
+### Project 6: Energy Efficiency Analysis
 - Description: Analysed global energy efficiency trends over time. The project explores factors influencing energy efficiency.
 - Tools: Python(Pandas, Matplotlib,Seaborn)
 - Dataset: [Link to Energy Dataset](https://github.com/owid/energy-data)
 
-### Project 6: Sales Dashboard Project
+### Project 7: Sales Dashboard Project
 
 - Description: Creation of a sales dashboard to analyze sales data from January 2019 to March 2019. The dashboard provides insights into key metrics such as total sales, average unit price, total quantity sold, and more.
 - Tools: Looker, Google Sheets
