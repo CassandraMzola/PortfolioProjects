@@ -4,7 +4,7 @@ Welcome to my portfolio projects repository! Here, you'll find a collection of d
 
 ## Table of Contents
 
-1. [Project 1: Zodiac Sign Calculator](https://github.com/CassandraMzola/PortfolioProjects/blob/main/MovieCorrelationProject.ipynb)
+1. [Project 1: Zodiac Sign Calculator](https://github.com/CassandraMzola/PortfolioProjects/blob/main/Zodiac_Calculator.py)
 1. [Project 2: Movie Correlation Project](https://github.com/CassandraMzola/PortfolioProjects/blob/main/MovieCorrelationProject.ipynb)
 2. [Project 3: Financial Data Analysis](https://github.com/CassandraMzola/PortfolioProjects/blob/main/FinancialAnalysisProject.ipynb)
 3. [Project 4: Health Data Visualization](https://github.com/CassandraMzola/PortfolioProjects/blob/main/HealthCareAnalysis.ipynb)
