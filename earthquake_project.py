@@ -7,10 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1WgZSERN9UxzP_BS-UkGJVdTM8vq9libn
 """
 
-from google.colab import auth
-auth.authenticate_user()
-
-!pip install --upgrade google-cloud-bigquery
 
 from google.cloud import bigquery
 
