@@ -1,0 +1,29 @@
+name: Weekly Earthquake Update
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'  # every Monday at 09:00 UTC
+  workflow_dispatch:      # allows manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Install dependencies
+        run: |
+          pip install pandas requests google-cloud-bigquery gdown
+      
+      - name: Download Colab notebook as Python script
+        run: |
+          jupyter nbconvert --to script Earthquake.ipynb
+      
+      - name: Run notebook script
+        run: |
+          python earthquake_project.ipynb
