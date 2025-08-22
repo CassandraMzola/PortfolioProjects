@@ -19,19 +19,14 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install pandas requests google-cloud-bigquery nbconvert
+          pip install pandas requests google-cloud-bigquery
 
       - name: Set GCP credentials
         run: echo "${{ secrets.GCP_KEY_JSON }}" > key.json
 
-      - name: Authenticate GCP
-        run: export GOOGLE_APPLICATION_CREDENTIALS="key.json"
-
-      - name: Convert notebook to script
-        run: jupyter nbconvert --to script earthquake_project.ipynb
-
-      - name: Run notebook script
+      - name: Run earthquake script
         run: python earthquake_project.py
-        env: 
+        env:
           GOOGLE_APPLICATION_CREDENTIALS: key.json
+
 
