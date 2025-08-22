@@ -24,7 +24,7 @@ jobs:
           pip install pandas requests google-cloud-bigquery pandas-gbq
 
       - name: Set GCP credentials
-        run: echo "${{ secrets.GCP_KEY_JSON }}" > key.json
+        run: echo '${{ secrets.GCP_KEY_JSON }}' > key.json
 
       - name: Run earthquake script
         run: python earthquake_project.py
