@@ -17,9 +17,11 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install dependencies
+      - name: Upgrade pip and install dependencies
         run: |
-          pip install pandas requests google-cloud-bigquery
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install pandas requests google-cloud-bigquery pandas-gbq
 
       - name: Set GCP credentials
         run: echo "${{ secrets.GCP_KEY_JSON }}" > key.json
