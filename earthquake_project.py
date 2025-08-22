@@ -1,12 +1,12 @@
 import requests
 import pandas as pd
+import os
 from google.cloud import bigquery
 from pandas_gbq import to_gbq
-import os
+
 
 
 # Authenticate with service account
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "service_account.json"
 client = bigquery.Client(project="earthquake-project-469810")
 
 # Pull JSON data from USGS
