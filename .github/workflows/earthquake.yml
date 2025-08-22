@@ -32,4 +32,6 @@ jobs:
 
       - name: Run notebook script
         run: python earthquake_project.py
+        env: 
+          GOOGLE_APPLICATION_CREDENTIALS: key.json
 
