@@ -2,6 +2,7 @@ import requests
 import pandas as pd
 from google.cloud import bigquery
 from pandas_gbq import to_gbq
+import os
 
 
 # Authenticate with service account
