@@ -28,8 +28,8 @@ jobs:
         run: export GOOGLE_APPLICATION_CREDENTIALS="key.json"
 
       - name: Convert notebook to script
-        run: jupyter nbconvert --to script Earthquake.ipynb
+        run: jupyter nbconvert --to script earthquake_project.ipynb
 
       - name: Run notebook script
-        run: python Earthquake.py
+        run: python earthquake_project.py
 
