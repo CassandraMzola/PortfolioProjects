@@ -1,4 +1,4 @@
-name: Weekly Earthquake Update
+name: Hourly Earthquake Data Collection
 
 on:
   schedule:
