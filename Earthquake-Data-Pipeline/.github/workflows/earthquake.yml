@@ -20,14 +20,14 @@ jobs:
       - name: Upgrade pip and install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install -r Earthquake-Data-Pipeline/requirements.txt
           pip install pandas requests google-cloud-bigquery pandas-gbq
 
       - name: Set GCP credentials
         run: echo '${{ secrets.GCP_KEY_JSON }}' > key.json
 
       - name: Run earthquake script
-        run: python earthquake_project.py
+        run: python Earthquake-Data-Pipeline/src/earthquake_project.py
         env:
           GOOGLE_APPLICATION_CREDENTIALS: key.json
 
