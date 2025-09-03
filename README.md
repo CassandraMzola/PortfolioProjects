@@ -5,12 +5,12 @@ Welcome to my portfolio projects repository! Here, you'll find a collection of d
 ## Table of Contents
 
 1. [Project 1: Zodiac Sign Calculator](https://github.com/CassandraMzola/PortfolioProjects/blob/main/Zodiac_Calculator.py)
-1. [Project 2: Movie Correlation Project](https://github.com/CassandraMzola/PortfolioProjects/blob/main/MovieCorrelationProject.ipynb)
-2. [Project 3: Financial Data Analysis](https://github.com/CassandraMzola/PortfolioProjects/blob/main/FinancialAnalysisProject.ipynb)
-3. [Project 4: Health Data Visualization](https://github.com/CassandraMzola/PortfolioProjects/blob/main/HealthCareAnalysis.ipynb)
-4. [Project 5: Water Quality Analysis ](https://github.com/CassandraMzola/PortfolioProjects/blob/main/waterqualityanalysis.py)
-5. [Project 6: Energy Efficiency  Analysis ](https://github.com/CassandraMzola/PortfolioProjects/blob/main/EnergyEfficiencyAnalysis.ipynb)
-6. [Project 7: Sales Analytics Dashboard  ](https://github.com/CassandraMzola/PortfolioProjects/blob/main/Sales_Analytics_Dashboard.pdf)
+2. [Project 2: Movie Correlation Project](https://github.com/CassandraMzola/PortfolioProjects/blob/main/MovieCorrelationProject.ipynb)
+3. [Project 3: Financial Data Analysis](https://github.com/CassandraMzola/PortfolioProjects/blob/main/FinancialAnalysisProject.ipynb)
+4. [Project 4: Health Data Visualization](https://github.com/CassandraMzola/PortfolioProjects/blob/main/HealthCareAnalysis.ipynb)
+5. [Project 5: Water Quality Analysis ](https://github.com/CassandraMzola/PortfolioProjects/blob/main/waterqualityanalysis.py)
+6. [Project 6: Energy Efficiency  Analysis ](https://github.com/CassandraMzola/PortfolioProjects/blob/main/EnergyEfficiencyAnalysis.ipynb)
+7. [Project 7: Sales Analytics Dashboard  ](https://github.com/CassandraMzola/PortfolioProjects/blob/main/Sales_Analytics_Dashboard.pdf)
 
    
 Feel free to explore each project folder to gain insights into my data analysis techniques and the stories behind the data.
