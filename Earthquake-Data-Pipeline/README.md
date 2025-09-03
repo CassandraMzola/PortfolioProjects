@@ -20,6 +20,24 @@ The **Earthquake Data Pipeline** automatically collects live earthquake data fro
 - **Dataset:** `earthquake_dataset`  
 - **Table:** `earthquakes`  
 - **Upload Mode:** Append (new records are added each run)  
+- **Public Access: The dataset is publicly accessible for anyone to query
+
+## Dataset Access
+
+You can access and query the dataset directly in **BigQuery**:
+
+**View Dataset in BigQuery:** [Open in BigQuery](https://console.cloud.google.com/bigquery?ws=!1m5!1m4!4m3!1searthquake-project-469810!2searthquake_dataset!3searthquakes&project=red-girder-465610-a6)  
+
+**Full Table Path:**  
+earthquake-project-469810.earthquake_dataset.earthquakes
+
+**Example Query:**
+```sql
+SELECT timestamp, location, magnitude, depth
+FROM `earthquake-project-469810.earthquake_dataset.earthquakes`
+WHERE magnitude >= 5
+ORDER BY timestamp DESC
+LIMIT 50;
 
 ## Requirements
 
